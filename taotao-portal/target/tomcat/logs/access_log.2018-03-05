@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /cart/cart.html HTTP/1.1" 200 15937 http-bio-8083-exec-4 2071
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /css/base.css HTTP/1.1" 200 48835 http-bio-8083-exec-5 36
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /js/cart.js HTTP/1.1" 200 1498 http-bio-8083-exec-7 6
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /css/purchase.2012.css?v=201410141639 HTTP/1.1" 200 63323 http-bio-8083-exec-6 82
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /js/jquery.price_format.2.0.min.js HTTP/1.1" 200 2652 http-bio-8083-exec-9 28
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /images/control-icon-20140521.png HTTP/1.1" 200 354 http-bio-8083-exec-8 4
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /images/cart_corner_1.png HTTP/1.1" 200 172 http-bio-8083-exec-1 2
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /images/my_cart_title.png HTTP/1.1" 200 867 http-bio-8083-exec-1 5
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /images/btn-check-20140627.png HTTP/1.1" 200 6940 http-bio-8083-exec-10 17
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:18:01:43 +0800] "GET /images/step1.png HTTP/1.1" 200 739 http-bio-8083-exec-4 46

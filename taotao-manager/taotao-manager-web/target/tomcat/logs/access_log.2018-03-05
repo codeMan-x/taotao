@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:54 +0800] "GET / HTTP/1.1" 200 2475 http-bio-8082-exec-1 2560
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:54 +0800] "GET /css/taotao.css HTTP/1.1" 200 421 http-bio-8082-exec-4 131
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:54 +0800] "GET /js/jquery-easyui-1.4.1/themes/icon.css HTTP/1.1" 200 2430 http-bio-8082-exec-2 311
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:54 +0800] "GET /js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js HTTP/1.1" 200 2487 http-bio-8082-exec-7 127
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:54 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/easyui.css HTTP/1.1" 200 51951 http-bio-8082-exec-3 325
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:54 +0800] "GET /js/jquery-easyui-1.4.1/jquery.min.js HTTP/1.1" 200 95786 http-bio-8082-exec-5 148
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:55 +0800] "GET /js/common.js HTTP/1.1" 200 7793 http-bio-8082-exec-9 33
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:55 +0800] "GET /js/jquery-easyui-1.4.1/jquery.easyui.min.js HTTP/1.1" 200 353674 http-bio-8082-exec-6 211
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:55 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/layout_arrows.png HTTP/1.1" 200 319 http-bio-8082-exec-3 25
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:55 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/tabs_icons.png HTTP/1.1" 200 150 http-bio-8082-exec-10 5
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:55 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/blank.gif HTTP/1.1" 200 43 http-bio-8082-exec-5 89
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:55 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/tree_icons.png HTTP/1.1" 200 3115 http-bio-8082-exec-6 101
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:55 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/panel_tools.png HTTP/1.1" 200 852 http-bio-8082-exec-9 95
+0:0:0:0:0:0:0:1 - - [05/Mar/2018:17:47:55 +0800] "GET /favicon.ico HTTP/1.1" 404 997 http-bio-8082-exec-9 161
